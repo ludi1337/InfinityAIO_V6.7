@@ -5,7 +5,7 @@
 
 1. Install the bundler:
 ```bash
-git clone https://github.com/Infinity-Sucks/InfinityAIO_V6.7.git
+git clone https://github.com/ludi1337/InfinityAIO_V6.7.git
 ```
 
 2. CD into the folder:
