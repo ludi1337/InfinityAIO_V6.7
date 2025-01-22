@@ -22,6 +22,6 @@ npm i
 ```bash
 node .
 ```
-
+![bundler](https://files.catbox.moe/r3iqk8.png)
 # Rant
 Can't believe people are paying 18 SOL !!!$4500!!! for this trash and people are actually buying it...
