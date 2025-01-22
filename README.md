@@ -1,4 +1,3 @@
-```
 ### What you'll need:
 - Node.js - Get it [here](https://nodejs.org/en/download/)
 - Infinity-Scripts own gitbook [here](https://infinity-scripts.gitbook.io/infinity-aio)
@@ -26,4 +25,3 @@ node .
 
 # Rant
 Can't believe people are paying 18 SOL !!!$4500!!! for this trash and people are actually buying it...
-```
