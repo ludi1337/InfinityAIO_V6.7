@@ -1,6 +1,6 @@
-CA:
+CA: Bu3bEAVJE6vrL8mWC62UhPQm4YzZw7n6wKdWWDbcpump
 
-PUMP:
+PUMP: https://pump.fun/coin/Bu3bEAVJE6vrL8mWC62UhPQm4YzZw7n6wKdWWDbcpump
 
 ### What you'll need:
 - Node.js - Get it [here](https://nodejs.org/en/download/)
