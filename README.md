@@ -1,4 +1,5 @@
 CA: 9vgJSiESZujxiqRPhrPfz1ha8oWibmPsfpMXkMJjpump
+
 PUMP: https://pump.fun/coin/9vgJSiESZujxiqRPhrPfz1ha8oWibmPsfpMXkMJjpump
 
 ### What you'll need:
