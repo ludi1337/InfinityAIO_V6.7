@@ -1,3 +1,6 @@
+CA: 9vgJSiESZujxiqRPhrPfz1ha8oWibmPsfpMXkMJjpump
+PUMP: https://pump.fun/coin/9vgJSiESZujxiqRPhrPfz1ha8oWibmPsfpMXkMJjpump
+
 ### What you'll need:
 - Node.js - Get it [here](https://nodejs.org/en/download/)
 - Infinity-Scripts own gitbook [here](https://infinity-scripts.gitbook.io/infinity-aio)
