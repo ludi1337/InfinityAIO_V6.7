@@ -25,6 +25,7 @@ npm i
 node .
 ```
 ![bundler](https://files.catbox.moe/r3iqk8.png)
+![logo](https://files.catbox.moe/3dkwzx.gif)
 # Rant
 Can't believe people are paying 18 SOL !!!$4500!!! for this lmfao
 
