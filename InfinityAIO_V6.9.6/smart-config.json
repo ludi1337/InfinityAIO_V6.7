@@ -1,0 +1,7 @@
+{
+    "sellPercentage": 30,
+    "minBuyValue": 0.05,
+    "_sellPercentageInfo": "Percentage of tokens to sell based on the total tokens bought in the transaction",
+    "_minBuyValueInfo": "Minimum value to buy in SOL to trigger smart profit selling"
+}
+
