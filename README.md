@@ -1,3 +1,5 @@
+###NOT A FAKE GITHUB, OPEN AN ISSUE IF YOU NEED SUPPORT. Expect replies with a minimum delay of 24-48 hours because I dont check this regularly.
+
 ### What you'll need:
 - Node.js - Get it [here](https://nodejs.org/en/download/)
 - Infinity-Scripts own gitbook [here](https://infinity-scripts.gitbook.io/infinity-aio)
@@ -24,4 +26,6 @@ node .
 ```
 ![bundler](https://files.catbox.moe/r3iqk8.png)
 # Rant
-Can't believe people are paying 18 SOL !!!$4500!!! for this trash and people are actually buying it...
+Can't believe people are paying 18 SOL !!!$4500!!! for this lmfao
+
+Infinity AIO / Infinity Scripts / Infinity Bundler is one of the most prominent bundlers. People pay crazy amounts just to use this solana bundler and yet the script is so easily cracked and the owner uses a license which allows public redistribution lmfao. Infinity is the best public bundler but way too expensive.
