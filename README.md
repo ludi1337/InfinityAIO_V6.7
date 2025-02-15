@@ -1,5 +1,3 @@
-### NOT A FAKE GITHUB, OPEN AN ISSUE IF YOU NEED SUPPORT. Expect replies with a minimum delay of 24-48 hours because I dont check this regularly.
-
 ### What you'll need:
 - Node.js - Get it [here](https://nodejs.org/en/download/)
 - Infinity-Scripts own gitbook [here](https://infinity-scripts.gitbook.io/infinity-aio)
